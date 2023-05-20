@@ -1,12 +1,4 @@
-![image](https://github.com/Atulrajput1302/Atulrajput1302/assets/63898454/6c292435-bb58-4826-a29b-565f8f88df1a)
-
-
-
-
-
-
-
-
+![image](https://github.com/Atulrajput1302/Atulrajput1302/assets/63898454/4e4502a4-9147-4d55-b4ca-5514892cdaa1)
 
 
 

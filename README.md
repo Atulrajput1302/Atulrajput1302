@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🧠 Good knowledge of Data Structure, Algorithms, OOPs, OS.<br>👯 I’m looking to collaborate in Data Science/Machine Learning projects.<br>🌱 I’m currently learning Kubernetes, Docker, Ansible, Terraform etc.<br>💬 Ask me about Data Science, ML, DL<br>⚡ Fun fact - Love Travelling <br> 🗿 Pronouns - He/Him
+🧠 Good knowledge of Data Structure, Algorithms, OOPs, OS.<br>👯 I’m looking to collaborate in Data Science/Machine Learning projects.<br>🌱 I’m currently learning Kubernetes, Docker, Ansible, Terraform etc.<br>💬 Ask me about Data Science, ML, DL<br>⚡ Fun fact - Love Travelling <br> 🗿 Pronouns - He/Him <br> 📍 Noida,Uttar Pradesh, India
+
+<h3> Click here to download Resume - <br> https://drive.google.com/file/d/1B0Gup3ZewSAJUWb-2fnr13KI8LlQo4SJ/view?usp=share_link </h3?
+<br>
+<br>
 
 
 ## 🌐 Socials:

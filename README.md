@@ -12,10 +12,6 @@
 
 
 
-
-
-
-### Hey you👋
 # 💫 About Me:
 🧠 Good knowledge of Data Structure, Algorithms, OOPs, OS.<br>👯 I’m looking to collaborate in Data Science/Machine Learning projects.<br>🌱 I’m currently learning Kubernetes, Docker, Ansible, Terraform etc.<br>💬 Ask me about Data Science, ML, DL<br>⚡ Fun fact - Love Travelling <br> 🗿 Pronouns - He/Him <br> 📍 Noida,Uttar Pradesh, India
 
